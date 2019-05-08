@@ -1,0 +1,10 @@
+"0","load(""sampledTranscriptData.Rda"")"
+"2","Warning message:
+"
+"2","In strsplit(code, ""\n"", fixed = TRUE) :"
+"2","
+ "
+"2"," input string 1 is invalid in this locale
+"
+"0","names(sampledTranscriptData) <- "
+"0","  c('學號','學期成績','學分數','學年','學期','必選修類別（必／選／通）','系級','科目名稱','年級','學屆')"
