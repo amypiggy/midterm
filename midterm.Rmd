@@ -61,6 +61,7 @@ logicBig
 建立一個答案物件compoundObject, 其中`compoundObject[[1]]`會得到數字1 (numeric class), `compoundObject[[2]]`會得到字串"hello"(character class),`compoundObject[[3]]`會得到邏輯TRUE (logical class)。 
 ```{r ans2}
 
+
 # compoundObject
 ```
 
