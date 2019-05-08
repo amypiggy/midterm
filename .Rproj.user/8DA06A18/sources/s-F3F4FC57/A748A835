@@ -5,16 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1126122246",
+    "hash" : "2612003562",
     "id" : "A748A835",
-    "lastKnownWriteTime" : 1557305927,
-    "last_content_update" : 1557305927720,
+    "lastKnownWriteTime" : 1557306014,
+    "last_content_update" : 1557306014240,
     "path" : "C:/Users/B1F04/Desktop/Midterm/midterm.Rmd",
     "project_path" : "midterm.Rmd",
     "properties" : {
-        "cursorPosition" : "63,0",
-        "last_setup_crc32" : "",
-        "scrollLine" : "56"
+        "cursorPosition" : "118,12",
+        "last_setup_crc32" : "F3F4FC57950e905a",
+        "scrollLine" : "89"
     },
     "relative_order" : 1,
     "source_on_save" : false,
